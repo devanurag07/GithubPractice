@@ -1,0 +1,4 @@
+new message
+
+
+This is a new file
